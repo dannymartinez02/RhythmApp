@@ -1,0 +1,12 @@
+{
+    "name": "rhythm-app-app",
+    "version": "1.0.0",
+    "description": "RhythmApp",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "Danny Martinez",
+    "license": "MIT"
+  }
+  
